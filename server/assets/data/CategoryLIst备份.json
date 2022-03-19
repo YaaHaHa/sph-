@@ -1,0 +1,355 @@
+{
+    "data": [
+        {
+            "categoryChild": [
+                {
+                    "categoryChild": [
+                        {
+                            "name": "电子书11",
+                            "id": 999,
+                            "attrValueList": [
+                                {
+                                    "attrId": 999,
+                                    "id": 200,
+                                    "valueName": "带制作1"
+                                },
+                                {
+                                    "attrId": 999,
+                                    "id": 201,
+                                    "valueName": "带制作2"
+                                },
+                                {
+                                    "attrId": 999,
+                                    "id": 202,
+                                    "valueName": "带制作3"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "电子书11",
+                            "id": 998,
+                            "attrValueList": [
+                                {
+                                    "attrId": 998,
+                                    "id": 203,
+                                    "valueName": "晓制作1"
+                                },
+                                {
+                                    "attrId": 998,
+                                    "id": 204,
+                                    "valueName": "晓制作2"
+                                },
+                                {
+                                    "attrId": 998,
+                                    "id": 205,
+                                    "valueName": "晓制作3"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "电子书11",
+                            "id": 997,
+                            "attrValueList": [
+                                {
+                                    "attrId": 997,
+                                    "id": 206,
+                                    "valueName": "烂活儿1"
+                                },
+                                {
+                                    "attrId": 997,
+                                    "id": 207,
+                                    "valueName": "烂活儿2"
+                                },
+                                {
+                                    "attrId": 997,
+                                    "id": 208,
+                                    "valueName": "烂活儿3"
+                                }
+                            ]
+                        }
+                    ],
+                    "name": "电子书刊1",
+                    "id": 2
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "name": "电子书11",
+                            "id": 999
+                        },
+                        {
+                            "name": "电子书11",
+                            "id": 998
+                        },
+                        {
+                            "name": "电子书11",
+                            "id": 997
+                        }
+                    ],
+                    "name": "电子书刊1",
+                    "id": 800
+                },
+                {
+                    "categoryChild": [
+                        {
+                            "name": "电子书11",
+                            "id": 996
+                        },
+                        {
+                            "name": "电子书11",
+                            "id": 995
+                        },
+                        {
+                            "name": "电子书11",
+                            "id": 994
+                        }
+                    ],
+                    "name": "电子书刊1",
+                    "id": 801
+                }
+            ],
+            "name": "图书、音像、电子书刊1",
+            "id": 1
+        },
+        {
+            "categoryChild": [
+                {
+                    "categoryChild": [
+                        {
+                            "name": "电子书2",
+                            "id": 6
+                        }
+                    ],
+                    "name": "电子书刊2",
+                    "id": 5
+                }
+            ],
+            "name": "图书、音像、电子书刊2",
+            "id": 4
+        },
+        {
+            "categoryChild": [
+                {
+                    "categoryChild": [
+                        {
+                            "name": "电子书3",
+                            "id": 9
+                        }
+                    ],
+                    "name": "电子书刊3",
+                    "id": 8
+                }
+            ],
+            "name": "图书、音像、电子书刊3",
+            "id": 7
+        },
+        {
+            "categoryChild": [
+                {
+                    "categoryChild": [
+                        {
+                            "name": "电子书4",
+                            "id": 12
+                        }
+                    ],
+                    "name": "电子书刊4",
+                    "id": 11
+                }
+            ],
+            "name": "图书、音像、电子书刊4",
+            "id": 10
+        },
+        {
+            "categoryChild": [
+                {
+                    "categoryChild": [
+                        {
+                            "name": "电子书5",
+                            "id": 15
+                        }
+                    ],
+                    "name": "电子书刊5",
+                    "id": 14
+                }
+            ],
+            "name": "图书、音像、电子书刊5",
+            "id": 13
+        },
+        {
+            "categoryChild": [
+                {
+                    "categoryChild": [
+                        {
+                            "name": "电子书6",
+                            "id": 18
+                        }
+                    ],
+                    "name": "电子书刊6",
+                    "id": 17
+                }
+            ],
+            "name": "图书、音像、电子书刊6",
+            "id": 16
+        },
+        {
+            "categoryChild": [
+                {
+                    "categoryChild": [
+                        {
+                            "name": "电子书7",
+                            "id": 21
+                        }
+                    ],
+                    "name": "电子书刊7",
+                    "id": 20
+                }
+            ],
+            "name": "图书、音像、电子书刊7",
+            "id": 19
+        },
+        {
+            "categoryChild": [
+                {
+                    "categoryChild": [
+                        {
+                            "name": "电子书8",
+                            "id": 24
+                        }
+                    ],
+                    "name": "电子书刊8",
+                    "id": 23
+                }
+            ],
+            "name": "图书、音像、电子书刊8",
+            "id": 22
+        },
+        {
+            "categoryChild": [
+                {
+                    "categoryChild": [
+                        {
+                            "name": "电子书9",
+                            "id": 27
+                        }
+                    ],
+                    "name": "电子书刊9",
+                    "id": 26
+                }
+            ],
+            "name": "图书、音像、电子书刊9",
+            "id": 25
+        },
+        {
+            "categoryChild": [
+                {
+                    "categoryChild": [
+                        {
+                            "name": "电子书10",
+                            "id": 30
+                        }
+                    ],
+                    "name": "电子书刊10",
+                    "id": 29
+                }
+            ],
+            "name": "图书、音像、电子书刊10",
+            "id": 28
+        },
+        {
+            "categoryChild": [
+                {
+                    "categoryChild": [
+                        {
+                            "name": "电子书11",
+                            "id": 33
+                        }
+                    ],
+                    "name": "电子书刊11",
+                    "id": 32
+                }
+            ],
+            "name": "图书、音像、电子书刊11",
+            "id": 31
+        },
+        {
+            "categoryChild": [
+                {
+                    "categoryChild": [
+                        {
+                            "name": "电子书12",
+                            "id": 36
+                        }
+                    ],
+                    "name": "电子书刊12",
+                    "id": 35
+                }
+            ],
+            "name": "图书、音像、电子书刊12",
+            "id": 34
+        },
+        {
+            "categoryChild": [
+                {
+                    "categoryChild": [
+                        {
+                            "name": "电子书13",
+                            "id": 39
+                        }
+                    ],
+                    "name": "电子书刊13",
+                    "id": 38
+                }
+            ],
+            "name": "图书、音像、电子书刊13",
+            "id": 37
+        },
+        {
+            "categoryChild": [
+                {
+                    "categoryChild": [
+                        {
+                            "name": "电子书14",
+                            "id": 42
+                        }
+                    ],
+                    "name": "电子书刊14",
+                    "id": 41
+                }
+            ],
+            "name": "图书、音像、电子书刊14",
+            "id": 40
+        },
+        {
+            "categoryChild": [
+                {
+                    "categoryChild": [
+                        {
+                            "name": "电子书15",
+                            "id": 45
+                        }
+                    ],
+                    "name": "电子书刊15",
+                    "id": 44
+                }
+            ],
+            "name": "图书、音像、电子书刊15",
+            "id": 43
+        },
+        {
+            "categoryChild": [
+                {
+                    "categoryChild": [
+                        {
+                            "name": "电子书16",
+                            "id": 48
+                        }
+                    ],
+                    "name": "电子书刊16",
+                    "id": 47
+                }
+            ],
+            "name": "图书、音像、电子书刊16",
+            "id": 46
+        }
+    ]
+}

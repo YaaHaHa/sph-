@@ -1,0 +1,149 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "label": "全部数据",
+            "select": false,
+            "children": [
+                {
+                    "id": 2,
+                    "label": "权限管理",
+                    "select": false,
+                    "children": [
+                        {
+                            "id": 20,
+                            "label": "用户管理",
+                            "select": false,
+                            "children": [
+                                {
+                                    "id": 30,
+                                    "label": "添加用户",
+                                    "select": true,
+                                    "level":4
+                                },
+                                {
+                                    "id": 31,
+                                    "label": "删除用户",
+                                    "select": true,
+                                    "level":4
+                                },
+                                {
+                                    "id": 32,
+                                    "label": "修改用户",
+                                    "select": true,
+                                    "level":4
+                                },
+                                {
+                                    "id": 33,
+                                    "label": "分配角色",
+                                    "select": true,
+                                    "level":4
+                                }
+                            ]
+                        },
+                        {
+                            "id": 21,
+                            "label": "角色管理",
+                            "select": false,
+                            "children": [
+                                {
+                                    "id": 34,
+                                    "label": "分配权限",
+                                    "select": false
+                                },
+                                {
+                                    "id": 35,
+                                    "label": "添加角色",
+                                    "select": false
+                                },
+                                {
+                                    "id": 36,
+                                    "label": "修改角色",
+                                    "select": false
+                                },
+                                {
+                                    "id": 37,
+                                    "label": "删除角色",
+                                    "select": false
+                                }
+                            ]
+                        },
+                        {
+                            "id": 22,
+                            "label": "菜单管理",
+                            "select": false,
+                            "children": [
+                                {
+                                    "id": 38,
+                                    "label": "添加",
+                                    "select": true
+                                },
+                                {
+                                    "id": 39,
+                                    "label": "修改",
+                                    "select": false
+                                },
+                                {
+                                    "id": 40,
+                                    "label": "删除",
+                                    "select": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "label": "商品管理",
+                    "select": false,
+                    "children": [
+                        {
+                            "id": 23,
+                            "label": "分类管理",
+                            "select": false,
+                            "children": [
+                                {
+                                    "id": 41,
+                                    "label": "添加子分类",
+                                    "select": false
+                                },
+                                {
+                                    "id": 42,
+                                    "label": "修改分类",
+                                    "select": false
+                                },
+                                {
+                                    "id": 43,
+                                    "label": "删除分类",
+                                    "select": false
+                                }
+                            ]
+                        },
+                        {
+                            "id": 24,
+                            "label": "平台属性管理",
+                            "select": false,
+                            "children": [
+                                {
+                                    "id": 44,
+                                    "label": "添加属性",
+                                    "select": false
+                                },
+                                {
+                                    "id": 45,
+                                    "label": "更新属性",
+                                    "select": false
+                                },
+                                {
+                                    "id": 46,
+                                    "label": "删除属性",
+                                    "select": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
